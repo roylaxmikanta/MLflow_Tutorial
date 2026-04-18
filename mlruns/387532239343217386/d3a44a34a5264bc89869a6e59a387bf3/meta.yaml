@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MY_study/MLOps_Tutorial/MLflow_Tutorial/mlruns/387532239343217386/d3a44a34a5264bc89869a6e59a387bf3/artifacts
+end_time: 1776538268507
+entry_point_name: ''
+experiment_id: '387532239343217386'
+lifecycle_stage: active
+run_id: d3a44a34a5264bc89869a6e59a387bf3
+run_name: secretive-grub-186
+run_uuid: d3a44a34a5264bc89869a6e59a387bf3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776538268432
+status: 3
+tags: []
+user_id: royla

@@ -1,0 +1,7 @@
+aliases:
+  production: '2'
+  staging: '1'
+creation_timestamp: 1776540373496
+description: ''
+last_updated_timestamp: 1776541263449
+name: Mlflow_tutorial

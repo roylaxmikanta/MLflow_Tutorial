@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MY_study/MLOps_Tutorial/MLflow_Tutorial/mlruns/387532239343217386/1a171ef720e0489b9185dfc40f837c18/artifacts
+end_time: 1776538268322
+entry_point_name: ''
+experiment_id: '387532239343217386'
+lifecycle_stage: active
+run_id: 1a171ef720e0489b9185dfc40f837c18
+run_name: defiant-wolf-722
+run_uuid: 1a171ef720e0489b9185dfc40f837c18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776538268229
+status: 3
+tags: []
+user_id: royla

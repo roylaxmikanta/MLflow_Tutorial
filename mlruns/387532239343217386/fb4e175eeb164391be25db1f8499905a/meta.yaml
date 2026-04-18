@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MY_study/MLOps_Tutorial/MLflow_Tutorial/mlruns/387532239343217386/fb4e175eeb164391be25db1f8499905a/artifacts
+end_time: 1776538268762
+entry_point_name: ''
+experiment_id: '387532239343217386'
+lifecycle_stage: active
+run_id: fb4e175eeb164391be25db1f8499905a
+run_name: marvelous-cat-589
+run_uuid: fb4e175eeb164391be25db1f8499905a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776538268683
+status: 3
+tags: []
+user_id: royla

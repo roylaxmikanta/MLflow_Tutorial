@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1776541219571
+current_stage: None
+description: ''
+last_updated_timestamp: 1776541219571
+name: Mlflow_tutorial
+run_id: 4b4f5b2cd0ed484d9d974a4709571ed5
+run_link: ''
+source: models:/Mlflow_tutorial/1
+status: READY
+status_message: null
+storage_location: file:///D:/MY_study/MLOps_Tutorial/MLflow_Tutorial/mlruns/387532239343217386/4b4f5b2cd0ed484d9d974a4709571ed5/artifacts/random_forest
+user_id: null
+version: 2

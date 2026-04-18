@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MY_study/MLOps_Tutorial/MLflow_Tutorial/mlruns/387532239343217386/a1f7a8657cc6462f99e8ef3535d18549/artifacts
+end_time: 1776538268007
+entry_point_name: ''
+experiment_id: '387532239343217386'
+lifecycle_stage: active
+run_id: a1f7a8657cc6462f99e8ef3535d18549
+run_name: burly-bass-715
+run_uuid: a1f7a8657cc6462f99e8ef3535d18549
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776538267951
+status: 3
+tags: []
+user_id: royla

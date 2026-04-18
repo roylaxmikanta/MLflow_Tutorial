@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MY_study/MLOps_Tutorial/MLflow_Tutorial/mlruns/387532239343217386/ee04ced0827640058c0aab18ba463636/artifacts
+end_time: 1776538268676
+entry_point_name: ''
+experiment_id: '387532239343217386'
+lifecycle_stage: active
+run_id: ee04ced0827640058c0aab18ba463636
+run_name: delicate-asp-588
+run_uuid: ee04ced0827640058c0aab18ba463636
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776538268587
+status: 3
+tags: []
+user_id: royla

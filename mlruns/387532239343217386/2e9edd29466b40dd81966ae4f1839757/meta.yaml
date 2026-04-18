@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MY_study/MLOps_Tutorial/MLflow_Tutorial/mlruns/387532239343217386/2e9edd29466b40dd81966ae4f1839757/artifacts
+end_time: 1776538268582
+entry_point_name: ''
+experiment_id: '387532239343217386'
+lifecycle_stage: active
+run_id: 2e9edd29466b40dd81966ae4f1839757
+run_name: useful-finch-732
+run_uuid: 2e9edd29466b40dd81966ae4f1839757
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776538268513
+status: 3
+tags: []
+user_id: royla

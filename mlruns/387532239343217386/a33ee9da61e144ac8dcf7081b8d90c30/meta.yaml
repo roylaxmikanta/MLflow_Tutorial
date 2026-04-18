@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MY_study/MLOps_Tutorial/MLflow_Tutorial/mlruns/387532239343217386/a33ee9da61e144ac8dcf7081b8d90c30/artifacts
+end_time: 1776538268218
+entry_point_name: ''
+experiment_id: '387532239343217386'
+lifecycle_stage: active
+run_id: a33ee9da61e144ac8dcf7081b8d90c30
+run_name: masked-perch-855
+run_uuid: a33ee9da61e144ac8dcf7081b8d90c30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776538268098
+status: 3
+tags: []
+user_id: royla

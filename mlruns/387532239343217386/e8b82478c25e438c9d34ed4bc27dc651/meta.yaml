@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MY_study/MLOps_Tutorial/MLflow_Tutorial/mlruns/387532239343217386/e8b82478c25e438c9d34ed4bc27dc651/artifacts
+end_time: 1776538268088
+entry_point_name: ''
+experiment_id: '387532239343217386'
+lifecycle_stage: active
+run_id: e8b82478c25e438c9d34ed4bc27dc651
+run_name: spiffy-slug-525
+run_uuid: e8b82478c25e438c9d34ed4bc27dc651
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776538268011
+status: 3
+tags: []
+user_id: royla

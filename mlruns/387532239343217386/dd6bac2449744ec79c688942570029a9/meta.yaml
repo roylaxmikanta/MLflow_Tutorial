@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MY_study/MLOps_Tutorial/MLflow_Tutorial/mlruns/387532239343217386/dd6bac2449744ec79c688942570029a9/artifacts
+end_time: 1776538268420
+entry_point_name: ''
+experiment_id: '387532239343217386'
+lifecycle_stage: active
+run_id: dd6bac2449744ec79c688942570029a9
+run_name: secretive-fawn-681
+run_uuid: dd6bac2449744ec79c688942570029a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776538268334
+status: 3
+tags: []
+user_id: royla

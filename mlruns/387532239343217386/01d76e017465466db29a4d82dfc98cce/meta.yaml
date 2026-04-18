@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MY_study/MLOps_Tutorial/MLflow_Tutorial/mlruns/387532239343217386/01d76e017465466db29a4d82dfc98cce/artifacts
+end_time: 1776538267947
+entry_point_name: ''
+experiment_id: '387532239343217386'
+lifecycle_stage: active
+run_id: 01d76e017465466db29a4d82dfc98cce
+run_name: honorable-grouse-119
+run_uuid: 01d76e017465466db29a4d82dfc98cce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776538267887
+status: 3
+tags: []
+user_id: royla

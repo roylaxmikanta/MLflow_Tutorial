@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a04fa7f6094348cabbbe5b00db36383b/artifacts
+end_time: 1776529828510
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a04fa7f6094348cabbbe5b00db36383b
+run_name: marvelous-stoat-778
+run_uuid: a04fa7f6094348cabbbe5b00db36383b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776529828343
+status: 3
+tags: []
+user_id: royla

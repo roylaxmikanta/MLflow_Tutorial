@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/782755455058030668/f43a8a081108434aa877d030bd094b53/artifacts
+end_time: 1776531673168
+entry_point_name: ''
+experiment_id: '782755455058030668'
+lifecycle_stage: active
+run_id: f43a8a081108434aa877d030bd094b53
+run_name: puzzled-dog-425
+run_uuid: f43a8a081108434aa877d030bd094b53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776531672192
+status: 3
+tags: []
+user_id: royla

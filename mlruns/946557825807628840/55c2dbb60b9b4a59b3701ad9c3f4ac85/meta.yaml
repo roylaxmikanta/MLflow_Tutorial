@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/946557825807628840/55c2dbb60b9b4a59b3701ad9c3f4ac85/artifacts
+end_time: 1776535251363
+entry_point_name: ''
+experiment_id: '946557825807628840'
+lifecycle_stage: active
+run_id: 55c2dbb60b9b4a59b3701ad9c3f4ac85
+run_name: bright-sponge-496
+run_uuid: 55c2dbb60b9b4a59b3701ad9c3f4ac85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776535244420
+status: 3
+tags: []
+user_id: roylaxmikanta

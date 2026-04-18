@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/115849879949391272/15ef6c6b5f5b49c586b75665790c0e2a/artifacts
+end_time: 1776531506614
+entry_point_name: ''
+experiment_id: '115849879949391272'
+lifecycle_stage: active
+run_id: 15ef6c6b5f5b49c586b75665790c0e2a
+run_name: salty-gull-442
+run_uuid: 15ef6c6b5f5b49c586b75665790c0e2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776531505469
+status: 3
+tags: []
+user_id: royla

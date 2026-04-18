@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MY_study/MLOps_Tutorial/MLflow_Tutorial/mlruns/912019887080265146/1e1c526cd21542cea21a1b6c35e2d20f/artifacts
+end_time: 1776536877018
+entry_point_name: ''
+experiment_id: '912019887080265146'
+lifecycle_stage: active
+run_id: 1e1c526cd21542cea21a1b6c35e2d20f
+run_name: stately-lark-986
+run_uuid: 1e1c526cd21542cea21a1b6c35e2d20f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776536869679
+status: 3
+tags: []
+user_id: royla

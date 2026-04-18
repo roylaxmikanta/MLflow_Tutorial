@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/946557825807628840/457eec898910457a90330a1870df51d9/artifacts
+end_time: 1776532312306
+entry_point_name: ''
+experiment_id: '946557825807628840'
+lifecycle_stage: active
+run_id: 457eec898910457a90330a1870df51d9
+run_name: valuable-elk-735
+run_uuid: 457eec898910457a90330a1870df51d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776532305372
+status: 3
+tags: []
+user_id: royla

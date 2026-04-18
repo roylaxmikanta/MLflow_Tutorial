@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MY_study/MLOps_Tutorial/MLflow_Tutorial/mlruns/912019887080265146/f128a8d7ba5a4f5c8a5c08543180ebd9/artifacts
+end_time: 1776537318337
+entry_point_name: ''
+experiment_id: '912019887080265146'
+lifecycle_stage: active
+run_id: f128a8d7ba5a4f5c8a5c08543180ebd9
+run_name: unique-carp-675
+run_uuid: f128a8d7ba5a4f5c8a5c08543180ebd9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776537309491
+status: 3
+tags: []
+user_id: royla

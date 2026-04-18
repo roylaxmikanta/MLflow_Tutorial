@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MY_study/MLOps_Tutorial/MLflow_Tutorial/mlruns/912019887080265146/238ea4513fab475da75ef5d6c31a7f98/artifacts
+end_time: 1776536623895
+entry_point_name: ''
+experiment_id: '912019887080265146'
+lifecycle_stage: active
+run_id: 238ea4513fab475da75ef5d6c31a7f98
+run_name: flawless-conch-310
+run_uuid: 238ea4513fab475da75ef5d6c31a7f98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776536618108
+status: 3
+tags: []
+user_id: royla

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/51d189c540154cb79043ccba83bc71ac/artifacts
+end_time: 1776531103916
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 51d189c540154cb79043ccba83bc71ac
+run_name: valuable-turtle-577
+run_uuid: 51d189c540154cb79043ccba83bc71ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776531102597
+status: 3
+tags: []
+user_id: royla

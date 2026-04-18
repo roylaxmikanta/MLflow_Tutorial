@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/fc7fd1a05e7b4b049d6593d4b62e8e74/artifacts
+end_time: 1776531349260
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fc7fd1a05e7b4b049d6593d4b62e8e74
+run_name: funny-hen-363
+run_uuid: fc7fd1a05e7b4b049d6593d4b62e8e74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776531348186
+status: 3
+tags: []
+user_id: royla
